@@ -11,7 +11,7 @@ This is HTML, CSS and Web Designing.
 
 
 # Live Url
-[https://narenderrajput.github.io/Giftos/](https://narenderrajput.github.io/zometo/)
+[https://narenderrajput.github.io/zometo/](https://narenderrajput.github.io/zometo/)
 
 
 # Screenshot
