@@ -1,4 +1,4 @@
-# Giftos
+# Zometo clone
 This is HTML, CSS and Web Designing. 
 
 ## Tech Stack
@@ -7,11 +7,11 @@ This is HTML, CSS and Web Designing.
 
 ## Key Points
 1. Font Awesome
-2. CSS
+2. CSS media queries
 
 
 # Live Url
-https://narenderrajput.github.io/Giftos/
+[https://narenderrajput.github.io/Giftos/](https://narenderrajput.github.io/zometo/)
 
 
 # Screenshot
